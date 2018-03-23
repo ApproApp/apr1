@@ -16,7 +16,7 @@ Individuals can fill those forms online and send them to officials for approval,
 They will be required to digitally sign the documents and approve them through their .pfx files provided to them on behalf of ApproApp.
 
 ## Technology
-We will devlop the web with combining three web apps that is one will be serving organizations, other to officials or executives and third will serve to normal individuals and all will be joint together by common database.
+We will develop the web with combining three web apps that is one will be serving organizations, other to officials or executives and third will serve to normal individuals and all will be joint together by common database.
 
 ## Working
 I.	Organizations will be able to see form builder page, executive hierarchy setter, and other top jobs. They will build forms and save on site with names of executives who need to approve those applications.
